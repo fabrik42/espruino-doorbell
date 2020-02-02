@@ -14,7 +14,7 @@ The doorbell in our office is very hard to hear sometimes, especially if you are
 
 As a workaround this device watches the little LED that only lights up if the doorbell rings, as pictured below.
 
-![The doorbell is ringing](https://media.giphy.com/media/oznDSPcmtjojYtE3bN/giphy.gif)
+![The doorbell is ringing](https://i.imgur.com/yheVSq5.gif)
 
 The device intercepts the light signal and converts it into a Slack message in our newly founded `#doorbell` channel.
 
